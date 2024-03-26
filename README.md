@@ -104,6 +104,7 @@ __ 4. Diversification:__
 - Diversify portfolios across locations and sectors for a balanced risk-return profile.
 
 ## Address
+Name: Davis Azangu Kasore
 Email address: daviskasore04@gmail.com
-Medium Aricle Link: https://medium.com/@daviskasore04/analyzing-indian-startups-ecosystem-325ce66ef12d
+Medium Article Link: https://medium.com/@daviskasore04/analyzing-indian-startups-ecosystem-325ce66ef12d
 
