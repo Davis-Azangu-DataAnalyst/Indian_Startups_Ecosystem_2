@@ -8,25 +8,24 @@ Welcome to the Indian Startup Ecosystem Data Analysis Project. This guide will h
 Before proceeding, ensure you have the following installed:
 
 Python (version 3.x)
-GitHub (for cloning the repository)
-Vs code or any preferred Python IDE
+Visual Studio Code (or any preferred code editor)
+Git (for version control)
+
+
 
 ## Usage
 1. Begin by cloning the repository to local machine.
-2.  Obtain the necessary datasets from the following sources:
-### -GitHub Repository: link-to-github-repo:https://github.com/Azubi-Africa/Career_Accelerator_LP1-Data_Analysis
+2. Navigate to the project directory in your terminal and install the required Python dependencies using pip
+3.  
+- GitHub Repository: Clone or download datasets from your preferred GitHub repository containing relevant data about Indian startups.
+- SQL Database: Connect to your SQL database and export relevant tables or queries as CSV files for analysis.
+- OneDrive: Download datasets stored on OneDrive or set up synchronization with your local machine for seamless access.
 
-### - SQL Database: Connect to your SQL database and export relevant tables as CSV files.
+3. Place the acquired data files and concatenate them within the project structure. Ensure consistency in file naming and formats.
 
-The data for 2020 and 2021 are stored in a database because Management decided it was more wise to do so for security reasons. You can access this data remotely using the credentials below:
-server name: dap-projects-database.database.windows.net
-Login: LP1_learner
-password: Hyp0th3s!$T3$t!ng
-database name: dapDB
-Table 1: dbo.LP1_startup_funding2020
-Table 2: dbo.LP1_startup_funding2021
+4. Open Project in Visual Studio Code: Launch Visual Studio Code and open the project directory by selecting "Open Folder" from the File menu. Alternatively, you can use the terminal integrated into Visual Studio Code for executing commands directly.
 
-### - OneDrive: Download data files stored on OneDrive or set up syncing with your local machine.
+5. Start Coding: Begin your data analysis journey by exploring the datasets, writing Python scripts, and leveraging data visualization libraries such as Matplotlib, Pandas, and Seaborn.
 
 ## Contributions
 - Help improve data quality by cleaning and preprocessing existing datasets.
