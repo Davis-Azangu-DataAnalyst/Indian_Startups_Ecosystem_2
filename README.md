@@ -9,6 +9,7 @@ Before proceeding, ensure you have the following installed:
 
 Python (version 3.x)
 Visual Studio Code (or any preferred code editor)
+
 Git (for version control)
 
 
